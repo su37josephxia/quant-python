@@ -1,4 +1,8 @@
 # Python环境安装
+- anaconda 
+> Anaconda介绍、安装及使用教程 https://www.jianshu.com/p/62f155eb6ac5
+- python
+
 
 ## anaconda安装
 
@@ -6,9 +10,6 @@ Anaconda是专注于数据分析的Python发行版本，包含了conda、Python�
 
 - packages 管理：可以使用 conda 来安装、更新 、卸载工具包 ，并且它更关注于数据科学相关的工具包。在安装 anaconda 时就预先集成了像 Numpy、Scipy、 pandas、Scikit-learn 这些在数据分析中常用的包。
 - 虚拟环境管理： 在conda中可以建立多个虚拟环境，用于隔离不同项目所需的不同版本的工具包，以防止版本上的冲突。对纠结于 Python 版本的同学们，我们也可以建立 Python2 和 Python3 两个环境，来分别运行不同版本的 Python 代码。
-
-
-
 
 
 anaconda 水蚺(南美洲蟒蛇);
